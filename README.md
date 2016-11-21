@@ -2,6 +2,8 @@
 
 Get a full fake REST API with __zero coding__ in __less than 30 seconds__ (seriously)
 
+This framework is recommended by CS349 Prof.
+
 Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
 
 * [Egghead.io free video tutorial - Creating demo APIs with json-server](https://egghead.io/lessons/nodejs-creating-demo-apis-with-json-server)
